@@ -1,14 +1,3 @@
-# <b>MIRROR HUNTER</b>
-
-![MIRROR HUNTER](https://media.giphy.com/media/dikubVwoUUBxLgpraV/giphy.gif?cid=790b7611c1fd9acab35e7fc75f7447316865d93043fc77b3&rid=giphy.gif&ct=s)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/anime-republic/MIRROR-HUNTER?color=blue&style=plastic)
-![GitHub forks](https://img.shields.io/github/forks/anime-republic/MIRROR-HUNTER?color=green&style=plastic)
-![GitHub watchers](https://img.shields.io/github/watchers/anime-republic/MIRROR-HUNTER?style=plastic)
-![Docker Pulls](https://img.shields.io/github/contributors/anime-republic/MIRROR-HUNTER?style=plastic)
-![Docker Pulls](https://img.shields.io/docker/pulls/arata74/mirrorhunter?style=plastic)
-[![Channel](https://img.shields.io/badge/Support%20Group-!-red?style=plastic)](https://t.me/XcodersHubChat)
-
 **This Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
 # Repo last commit
